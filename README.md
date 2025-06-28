@@ -4,6 +4,16 @@
 
 </div>
 
+<div align="center">
+  <a href="https://discord.gg/2JDHx6kcXB"><img src="https://img.shields.io/badge/DLSS2FSR%20Discord-invite?logo=discord&logoColor=white&color=5865F2" alt="Discord invite"></a>
+  
+</div>
+
+
+
+
+
+
 ## Table of Contents
 
 **1.** [**About**](#about)  
