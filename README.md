@@ -5,12 +5,12 @@
 </div>
 
 <div align="center">
-  <a href="https://discord.gg/2JDHx6kcXB"><img src="https://img.shields.io/badge/DLSS2FSR%20Discord-invite?logo=discord&logoColor=white&color=5865F2" alt="Discord invite"></a>
-  <a href="https://github.com/optiscaler/OptiScaler/releases/latest"><img src="https://img.shields.io/badge/Download-Stable-green?logo=github&logoColor=white" alt="Stable release"></a>
-  <a href="https://github.com/optiscaler/OptiScaler/releases/tag/nightly"><img src="https://img.shields.io/badge/Download-Nightly-orange?logo=github&logoColor=white" alt="Nightly release"></a>
-  <a href="https://github.com/optiscaler/OptiScaler/wiki"><img src="https://img.shields.io/badge/Documentation-blue?logo=mdbook" alt="Wiki"></a>
-  <a href="https://github.com/optiscaler/OptiScaler/blob/master/LICENSE"><img src="https://img.shields.io/github/license/optiscaler/Optiscaler" alt="License"></a>
-  <a href="https://github.com/optiscaler/OptiScaler"><img src="https://img.shields.io/github/stars/optiscaler/Optiscaler?style=for-the-badge&logo=github" alt="Github Stars"></a>
+  <a href="https://discord.gg/2JDHx6kcXB"><img src="https://img.shields.io/badge/DLSS2FSR-blue?style=for-the-badge&logo=discord&logoColor=white&logoSize=auto&color=5865F2" alt="Discord invite"></a>
+  <a href="https://github.com/optiscaler/OptiScaler/releases/latest"><img src="https://img.shields.io/badge/Download-Stable-green?style=for-the-badge&logo=github&logoSize=auto" alt="Stable release"></a>
+  <a href="https://github.com/optiscaler/OptiScaler/releases/tag/nightly"><img src="https://img.shields.io/badge/Download-Nightly-purple?style=for-the-badge&logo=github&logoSize=auto" alt="Nightly release"></a>
+  <a href="https://github.com/optiscaler/OptiScaler/wiki"><img src="https://img.shields.io/badge/Documentation-blue?style=for-the-badge&logo=gitbook&logoColor=white&logoSize=auto" alt="Wiki"></a>
+  <a href="https://github.com/optiscaler/OptiScaler/blob/master/LICENSE"><img src="https://img.shields.io/github/license/optiscaler/Optiscaler?style=for-the-badge&logo=git&logoColor=white&logoSize=auto" alt="License"></a>
+  <a href="https://github.com/optiscaler/OptiScaler"><img src="https://img.shields.io/github/stars/optiscaler/Optiscaler?style=for-the-badge&logo=github&logoSize=auto" alt="Github Stars"></a>
 
 </div>
 
