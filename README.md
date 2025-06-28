@@ -6,7 +6,8 @@
 
 <div align="center">
   <a href="https://discord.gg/2JDHx6kcXB"><img src="https://img.shields.io/badge/DLSS2FSR%20Discord-invite?logo=discord&logoColor=white&color=5865F2" alt="Discord invite"></a>
-  <a href="https://github.com/optiscaler/OptiScaler/releases/latest"><img src="https://img.shields.io/badge/Download-Latest-green?logo=github&logoColor=white" alt="Latest release"></a>
+  <a href="https://github.com/optiscaler/OptiScaler/releases/latest"><img src="https://img.shields.io/badge/Download-Stable-green?logo=github&logoColor=white" alt="Stable release"></a>
+  <a href="https://github.com/optiscaler/OptiScaler/releases/tag/nightly"><img src="https://img.shields.io/badge/Download-Nightly-orange?logo=github&logoColor=white" alt="Nightly release"></a>
 
 </div>
 
